@@ -176,7 +176,7 @@ class Reservations extends AdminController
     public function calendarUpdateEvent($eventId, $startAt, $endAt): void
     {
         /** @var Reservation $reservation */
-        $reservation = $this->asExtension(FormController::class)->formFindModelObject($eventId);
+        $reservation = $this->asExtension(FormController::class)->formFindModelObject((string)$eventId);
 
         $startAt = make_carbon($startAt);
         $endAt = make_carbon($endAt);
