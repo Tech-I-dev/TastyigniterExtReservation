@@ -1,18 +1,18 @@
 {
-    "name": "tastyigniter/ti-ext-reservation",
+    "name": "techidev/tastyigniterextreservation",
     "type": "tastyigniter-package",
     "description": "Provides a simple booking form to accept table reservations.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sam Poyigi",
-            "email": "sam@sampoyigi.com"
+            "name": "Kotchenin FANIDJI KASSIGNI",
+            "email": "kotchenin.fanidji.kassigni@gmail.com"
         }
     ],
     "require": {
-        "tastyigniter/core": "^v4.0",
-        "tastyigniter/ti-ext-automation": "^v4.0",
-        "tastyigniter/ti-ext-local": "^v4.0"
+        "techidev/tastyignitercore": "^v1.0",
+        "techidev/tastyigniterautomation": "^v4.0",
+        "techidev/tastyigniterlocal": "^v4.0"
     },
     "require-dev": {
         "larastan/larastan": "^3.0",
