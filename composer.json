@@ -10,9 +10,9 @@
         }
     ],
     "require": {
-        "techidev/tastyignitercore": "^v1.0",
-        "techidev/tastyigniterautomation": "^v4.0",
-        "techidev/tastyigniterlocal": "^v4.0"
+        "techidev/tastyignitercore": "^v1.0*",
+        "techidev/tastyigniterautomation": "*",
+        "techidev/tastyigniterlocal": "*"
     },
     "require-dev": {
         "larastan/larastan": "^3.0",
