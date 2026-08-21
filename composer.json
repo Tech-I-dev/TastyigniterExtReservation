@@ -5,12 +5,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Kotchenin FANIDJI KASSIGNI",
-            "email": "kotchenin.fanidji.kassigni@gmail.com"
+            "name": "Tech I Dev Pos Dev Team"
         }
     ],
     "require": {
-        "techidev/tastyignitercore": "^v1.0*",
+        "techidev/tastyignitercore": "*",
         "techidev/tastyigniterautomation": "*",
         "techidev/tastyigniterlocal": "*"
     },
