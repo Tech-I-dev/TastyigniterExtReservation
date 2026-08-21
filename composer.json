@@ -71,5 +71,8 @@
             "@test:lint",
             "@test:coverage"
         ]
+    },
+    "replace": {
+        "tastyigniter/ti-ext-reservation": "*"
     }
 }
