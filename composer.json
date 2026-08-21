@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "techidev/tastyigniterextcore": "dev-main",
+        "techidev/tastyignitercore": "dev-main",
         "techidev/tastyigniterextautomation": "dev-main",
         "techidev/tastyigniterextlocal": "dev-main"
     },
